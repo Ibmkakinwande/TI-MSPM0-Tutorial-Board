@@ -12,10 +12,10 @@ My custom TI MSPM0 hardware design built from scratch in KiCad, following Phil's
 ## 3D Previews
 
 ### Board Render
-![Board Render](board-render.png)
+![Board Render](PCB%layout.png)
 
 ### Front View
 ![Front View](3d%20Front%20View.png)
 
 ### Back View
-![Back View](3d%20Back%20View.png)
+![Back View](3d%20BackView.png)
